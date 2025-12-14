@@ -1,14 +1,14 @@
-# 🌍 CobbleWilds Network
+# 🌍 Crylagard Network
 ### A Next-Generation Minecraft Network | Survival • RPG • Dungeons
 
-Welcome to **CobbleWilds Network**, a modern Minecraft network focused on high quality gameplay, custom features, and a seamless multiplayer experience.
+Welcome to **Crylagard Network**, a modern Minecraft network focused on high quality gameplay, custom features, and a seamless multiplayer experience.
 This organization contains some of our tools that we use to power our network.
 
 ---
 
 ## 🚀 About Us
 
-**CobbleWilds Network** is a Minecraft network built to deliver:
+**Crylagard Network** is a Minecraft network built to deliver:
 - 🗺️ **Unique Worlds & Realms**
   - Explore custom dimensions, biomes, dungeons, and handcrafted adventures.
 - ⚔️ **RPG Progression**
